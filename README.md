@@ -1,2 +1,1 @@
-# 2020_2021_guz_yariyil_jeodezi_odev
-Jeodezi
+# 2020-2021 GÜZ YARIYILI JEODEZİ-1 VİZE ÖDEVİ
