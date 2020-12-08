@@ -1,0 +1,2 @@
+# 2020_2021_guz_yariyil_jeodezi_odev
+Jeodezi
