@@ -45,3 +45,5 @@ B = sigma + B_2_ussu_sin_2_sigma + C_2_ussu_sin_4_sigma + D_2_ussu_sin_6_sigma;
 fprintf('B: %.13f', B);
 B_derece_dakika_saniye = degrees2dms(B);
 fprintf(' => %2.0f:%2.0f:%7.4f\n', B_derece_dakika_saniye);
+
+
